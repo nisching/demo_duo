@@ -1,1 +1,1 @@
-# demo_duo
+# Demo
